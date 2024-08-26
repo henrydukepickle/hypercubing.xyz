@@ -50,7 +50,7 @@ If you try and fix this with RKT, then the outer layers will be off by 180°. Th
 You can use a 3D supercube algorithm that rotates the U center 180° (`(R U R' U)5`, or `(L R U2 R' L' U)2`).
 
 Harder to memorize (but much lower in movecount) is this 9-mover RKT parity alg:
-`IU UR IU' IF' UO' IF RF UR RF' UIR`, found by Tetrian22.
+`IU UR ID IB UI IF RF UR RB UF, found by Tetrian22.
 
 - [3^4^ Commutators List by Alvin (RKT parity algs are near the bottom)](https://docs.google.com/spreadsheets/d/1fCAhsGl0Ttf7B_ncS8m2Mq_TkPZX2VCaFw23XGSzAKo/edit#gid=0)
 - [PLL + RKT parity algs by Eff](https://docs.google.com/spreadsheets/d/1oHNpWKSnR0p6PMiwQT5IciE2f7Wmw2cC-Kfol0XrzG4/edit)
